@@ -1,3 +1,18 @@
 # Text-Beegifier
 #
-# Takes input text string and converts it into large, 5 line tall ASCII art
+# Takes input text string and converts it into large, 5 line tall ASCII art.
+#
+# Example:
+#
+#  _____   __  __       _       __  __    ____     _        _____    __
+# | ____|  \ \/ /      / \     |  \/  |  |  _ \   | |      | ____|  |__|
+# |  _|     \  /      / _ \    | |\/| |  | |_) |  | |      |  _|     __
+# | |___    /  \     / ___ \   | |  | |  |  __/   | |___   | |___   |__|
+# |_____|  /_/\_\   /_/   \_\  |_|  |_|  |_|      |_____|  |_____|
+#
+#
+#
+#
+#
+#
+
