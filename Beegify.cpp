@@ -1,3 +1,11 @@
+/*------------------------------------------------------------------------------------------------------------------
+* Beegify: takes input text string and converts it into large, 5 line tall ASCII art
+* 
+* Author:	Cameron Jupp
+* Created:	Summer 2021
+* Edited:	September 18th, 2022
+-------------------------------------------------------------------------------------------------------------------*/
+
 #include <stdio.h>
 #include <limits.h>
 #include <math.h>
