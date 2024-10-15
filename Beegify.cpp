@@ -113,16 +113,17 @@ int main()
 	{
 
 
-		gets_s(text, 100);
+		//gets_s(text, 100);
+		scanf("%s", text);
 
 		allLower(text);
 
-		printf_s(text);
-		printf_s("\n");
+		printf(text);
+		printf("\n");
 
 		beegify(text);
 
-		printf_s("\n");
+		printf("\n");
 
 
 	}
